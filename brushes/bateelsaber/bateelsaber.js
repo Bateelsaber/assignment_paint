@@ -1,7 +1,7 @@
 ////////////////////////////////////////////////////////////////////
 // bateelsaber.js
 //
-// basic bateelsaber tool: draws random rectangles
+// basic bateelsaber tool: draws rectangles in random sizes 
 // author: Bateel Saber
 
 
