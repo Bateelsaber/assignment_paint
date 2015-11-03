@@ -19,7 +19,7 @@ brushes.push(bateelsaber);
 // define brush behavior
 
 bateelsaber.draw = function() {
-	noFill(forecolor);
+	noFill();
 	stroke(forecolor);
 
 	if (mouseIsPressed) {
